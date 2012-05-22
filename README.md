@@ -8,9 +8,14 @@ Amazon S3 File Uploader IOS Module BETA
 # s3uploader Module 
 # THIS IS A TRIAL RELEASE AND WILL EXPIRE
 
+I have released this version so hopefully I can get some broader testing of the module before I submit it to the marketplace.
+If there are some individuals who provide good feedback, I will give them a free version of the module.
+
+Please provide feedback if it is something you think would be good for the marketplace and the overall Appcelerator Community
+
 ## Description
 
-Simple file upload and bucket management for Amazon S3 writing for IOS and Titanium Appcelerator
+Simple file upload and bucket management for Amazon S3 written for IOS and Titanium Appcelerator
 
 
 ## Accessing the s3uploader Module
