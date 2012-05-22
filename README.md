@@ -152,6 +152,10 @@ will get a url for the specified resource in the S3 bucket
 Clearly Innovative Inc 2012
 Aaron K. Saunders
 
+twitter:[@aaronksaunders](http://bit.ly/JMc1UM)
+linkedin:[http://www.linkedin.com/in/aaronksaunders](http://www.linkedin.com/in/aaronksaunders)
+blog:[blog.clearlyinnovative.com](blog.clearlyinnovative.com)
+
 ## License
 
 This is a beta release of the software, this will EXPIRE when I push to Appcelerator Marketplace
