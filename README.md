@@ -15,7 +15,9 @@ Please provide feedback if it is something you think would be good for the marke
 
 ## Description
 
-Simple file upload and bucket management for Amazon S3 written for IOS and Titanium Appcelerator
+Simple file upload and bucket management for Amazon S3 written for IOS and Titanium Appcelerator.
+
+[Download IOS Module Here](https://github.com/aaronksaunders/AmazonS3FileUploaderBETA/downloads)
 
 
 ## Accessing the s3uploader Module
