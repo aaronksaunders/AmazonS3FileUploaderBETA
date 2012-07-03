@@ -6,12 +6,6 @@ Amazon S3 File Uploader IOS Module BETA
 
 # Clearly Innovative Inc
 # s3uploader Module 
-# THIS IS A TRIAL RELEASE AND WILL EXPIRE
-
-I have released this version so hopefully I can get some broader testing of the module before I submit it to the marketplace.
-If there are some individuals who provide good feedback, I will give them a free version of the module.
-
-Please provide feedback if it is something you think would be good for the marketplace and the overall Appcelerator Community
 
 ## Description
 
@@ -160,4 +154,4 @@ Aaron K. Saunders
 
 ## License
 
-This is a beta release of the software, this will EXPIRE when I push to Appcelerator Marketplace
+FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE FREE 
