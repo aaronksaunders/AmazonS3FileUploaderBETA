@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: Amazon S3 File Upload Utility
+author: Aaron K. Saunders
+license: TRIAL
+copyright: Copyright (c) 2012 by Clearly Innovative Inc.
+
+
+# these should not be edited
+name: s3uploader
+moduleid: com.ci.s3uploader
+guid: b123123a-c40e-4932-bd7c-81a59f408aba
+platform: iphone
+minsdk: 1.8.0.1
